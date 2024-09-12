@@ -2,7 +2,7 @@
 <h3 align="center">I'm a driven undergraduate software engineer at the Open University of Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhathkaluarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="prabhathkaluarachchi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhathkaluarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="prabhathkaluarachchi" width="150px" /> </p>
 
 - 🔭 I’m currently working on [MediMate](https://github.com/MediMateBooking)
 
