@@ -4,27 +4,13 @@
 
 # <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhathkaluarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="prabhathkaluarachchi" width="100px" /> </p>
 
-- 🔭 I’m currently working on [MediMate](https://github.com/MediMateBooking)
-
 - 🔭 I’m currently work as a [Freelanceer](https://www.fiverr.com/)
 
-- 🌱 I’m currently learning **React Native, NodeJS, WordPress, Express, TypeScript, MongoDB**
+- 🌱 I’m currently learning **React Js, NodeJS, WordPress, Express Js, TypeScript, MongoDB, Next Js, Tailwind**
 
-- 👯 I’m looking to collaborate on **Future Projects**
-
-- 🤝 I’m looking for help with **Any Future Projects**
-
-- 👨‍💻 All of my projects are available at [https://prabhath.me/](https://prabhath.me/)
-
-- 📝 I regularly write articles on [https://prabhath.me/](https://prabhath.me/)
+- 👨‍💻 All of my projects are available at [https://prabhath.me/](https://prabhath.online/)
 
 - 💬 Ask me about **Frontend Development**
-
-- 📫 How to reach me **fmprabhath@gmail.com**
-
-- 📄 Know about my experiences [https://prabhath.me/](https://prabhath.me/)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
