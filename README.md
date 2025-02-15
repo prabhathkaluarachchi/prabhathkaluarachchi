@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Js, NodeJS, WordPress, Express Js, TypeScript, MongoDB, Next Js, Tailwind**
 
-- 👨‍💻 All of my projects are available at [[https://prabhath.me](https://prabhath.online/)/]
+- 👨‍💻 All of my projects are available at [[https://prabhath.online](https://prabhath.online/)/]
 
 - 💬 Ask me about **Frontend Development**
 
