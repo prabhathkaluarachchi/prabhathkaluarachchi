@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://prabhath.online](https://prabhath.online/)]
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Fullstack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
