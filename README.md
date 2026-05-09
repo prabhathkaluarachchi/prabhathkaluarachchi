@@ -1,16 +1,41 @@
 <h1 align="center">Hi 👋, I'm Prabhath Kaluarachchi</h1>
-<h3 align="center">I'm a driven undergraduate software engineer at the Open University of Sri Lanka.</h3>
 
+<h3 align="center">
+  Undergraduate Software Engineer | Full Stack Developer | Freelancer
+</h3>
 
-# <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhathkaluarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="prabhathkaluarachchi" width="100px" /> </p>
+<p align="center">
+  Passionate about building modern web applications and creating clean, user-friendly digital experiences.
+</p>
 
-- 🔭 I’m currently work as a [Freelanceer](https://www.fiverr.com/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabhathkaluarachchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🌱 I’m currently learning **React Js, NodeJS, WordPress, Express Js, TypeScript, MongoDB, Next Js, Tailwind**
+---
 
-- 👨‍💻 All of my projects are available at [[https://prabhath.online](https://prabhath.online/)]
+### 👨‍💻 About Me
 
-- 💬 Ask me about **Fullstack Development**
+- 🎓 Undergraduate Software Engineering student at **The Open University of Sri Lanka**
+- 💼 Working as a **Freelance Full Stack Developer**
+- 🌱 Currently learning and improving skills in:
+  - React.js
+  - Next.js
+  - Node.js
+  - Express.js
+  - TypeScript
+  - MongoDB
+  - Tailwind CSS
+  - WordPress
+
+- 🚀 Portfolio Website:  
+  🌐 https://prabhath.online
+
+- 💬 Ask me about:
+  - Full Stack Development
+  - MERN Stack
+  - Frontend UI Development
+  - Responsive Web Design
 
 <h3 align="left">🌐 Connect with me</h3>
 
@@ -36,19 +61,23 @@
 </p>
 
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=prabhathkaluarachchi&show_icons=true&theme=github_dark&hide_border=true" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhathkaluarachchi&layout=compact&theme=github_dark&hide_border=true" 
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=prabhathkaluarachchi&theme=github-dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhathkaluarachchi&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhathkaluarachchi&theme=github_dark" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhathkaluarachchi&theme=github_dark" />
+</p>
+
+
 
 
 
